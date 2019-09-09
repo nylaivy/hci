@@ -4,7 +4,7 @@ title: Good Design
 subtitle: Radiator Control Knob
 ---
 
-![Knob Photo][Knob]
+![Knob][Knob]
 
 [Knob]:http://nylaivy.github.io/hci/Knob.jpg
 
