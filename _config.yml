@@ -20,7 +20,6 @@ description: A website to post assignments for my HCI course at Williams College
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Good Design: "goodDesign"
   Bad Design: "badDesign"
 
