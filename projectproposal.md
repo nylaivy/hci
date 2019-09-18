@@ -7,6 +7,9 @@ subtitle: Can you travel around the world solo without feeling lonely?
 ![travelBanner][travelBanner]
 
 [travelBanner]: http://nylaivy.github.io/hci/img/travelBanner.jpeg
+[Image Source](https://theveliger.org/6797/world-travel-banner/)
+
+
 
 
 ### The Problem 
@@ -19,7 +22,4 @@ Many people travel solo for different reasons that can include the ease in plann
 My proposed solution is an app where solo travelers can register for certain activities that are known to be the most popular/recommended based on stats from a platform like yelp or the creators’ prior knowledge. The app can tell these people where to meet for the travel experience and a group of solo travelers who are interested in the same experience will have the opportunity to meet each other. I do think that there can also be an element of social communication on the platform, such as messaging, between these solo travelers before these events via a format similar to Groupme or WhatsApp based on what experiences they register for and the time frame in which they are traveling to a particular place. This app has the capability of increasing the amount of travel throughout the world as well as the amount of global awareness through experiential and cultural learning!
 
 
-
-
-[Image Source](https://theveliger.org/6797/world-travel-banner/)
 
