@@ -8,6 +8,7 @@ subtitle: Can you travel around the world solo without feeling lonely?
 
 [travelBanner]: http://nylaivy.github.io/hci/img/travelBanner.jpeg
 
+
 ### The Problem 
 Solo traveling can get lonely and certain traveling experiences are more conducive to groups. Even if traveling to a new place alone, there are certain experiences that can make you feel lonely, be a financial burden, or make you feel unsafe such as eating, nightlife, wine tours, hikes, etc. 
 
@@ -20,5 +21,5 @@ My proposed solution is an app where solo travelers can register for certain act
 
 
 
+[Image Source] (http://theveliger.org/6797/world-travel-banner/)
 
-[] (http://theveliger.org/6797/world-travel-banner/ "Image Source")
