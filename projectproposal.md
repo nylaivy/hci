@@ -21,4 +21,4 @@ My proposed solution is an app where solo travelers can register for certain act
 
 
 
-Image Source: http://theveliger.org/6797/world-travel-banner/
+[] (http://theveliger.org/6797/world-travel-banner/ "Image Source")
