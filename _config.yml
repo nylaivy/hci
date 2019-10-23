@@ -24,6 +24,7 @@ navbar-links:
   Bad Design: "badDesign"
   Project Proposal: "projectproposal"
   Group Project: "https://hci-res.github.io/"
+  Research Report: "researchPaperReport"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
