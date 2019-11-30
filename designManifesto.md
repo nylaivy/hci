@@ -6,7 +6,7 @@ subtitle: 5 Ways to Create Good Design
 
 This post includes revelations and large take-aways on design from my course on Human Computer Interaction. While I am not a design expert, I have learned a lot about the design process through the experience of designing a residential event application [(RES)](https://hci-res.github.io/) throughout the course. All design should incorporate elements of the user-centered design process to ensure that the creation is the best that it could be. Good design is not speculative, subjective, nor harmful. Designers should therefore incorporate potential users as well as consider the ways others can be affected by design implementation to truly create a good design. 
 
-# The following are five ways designers can create good design:
+### The following are five ways designers can create good design:
 
 1.	Prevent unethical impact of a design by considering potential side-effects 
 2.	Consider accessibility to help make a design easier for ALL users
